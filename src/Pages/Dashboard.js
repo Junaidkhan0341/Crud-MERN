@@ -4,7 +4,7 @@ export default function Dashboard() {
   return (
   <div>
      <div style={{ flex: 1, padding: "20px 0" }}>
-      Go TO Customer 
+      <h1>Go To Customer </h1>
      </div>
      </div>)
 }
