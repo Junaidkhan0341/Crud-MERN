@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Crud-MERN/static/css/main.fbc68754.css",
+    "main.js": "/Crud-MERN/static/js/main.f271c152.js",
+    "static/media/Lato-SemiBold.ttf": "/Crud-MERN/static/media/Lato-SemiBold.505e1361b69ab525b4e7.ttf",
+    "static/media/Lato-Black.ttf": "/Crud-MERN/static/media/Lato-Black.0f56360fd2c505dd13fa.ttf",
+    "static/media/Lato-Regular.ttf": "/Crud-MERN/static/media/Lato-Regular.2b7b7f6c8554ad96436b.ttf",
+    "static/media/Lato-Bold.ttf": "/Crud-MERN/static/media/Lato-Bold.0baf4e4829ca0a3e1e5c.ttf",
+    "static/media/Lato-Light.ttf": "/Crud-MERN/static/media/Lato-Light.db4ac5122b70c74fd850.ttf",
+    "static/media/RecoletaAlt-SemiBold.ttf": "/Crud-MERN/static/media/RecoletaAlt-SemiBold.12c19788eb6584e460c3.ttf",
+    "static/media/modal_header.png": "/Crud-MERN/static/media/modal_header.139e18c5dbb25ae48135.png",
+    "static/media/customers.svg": "/Crud-MERN/static/media/customers.5dabbdd46676503fc01ee736e9d35930.svg",
+    "static/media/delete.svg": "/Crud-MERN/static/media/delete.76ec4aee3eca7b2cfdbf4ef5e5e210da.svg",
+    "index.html": "/Crud-MERN/index.html",
+    "static/media/plus.svg": "/Crud-MERN/static/media/plus.f48972c2cce2a3c45ab5f6103a191f91.svg",
+    "static/media/sort_down.svg": "/Crud-MERN/static/media/sort_down.8965c7f554c04bb34c709aeabcf4a2d6.svg",
+    "static/media/sort_up.svg": "/Crud-MERN/static/media/sort_up.c6f297c0fc835b3f9c85990deaf09fc7.svg",
+    "main.fbc68754.css.map": "/Crud-MERN/static/css/main.fbc68754.css.map",
+    "main.f271c152.js.map": "/Crud-MERN/static/js/main.f271c152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc68754.css",
+    "static/js/main.f271c152.js"
+  ]
+}
